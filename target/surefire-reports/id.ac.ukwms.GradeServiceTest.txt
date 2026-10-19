@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: id.ac.ukwms.GradeServiceTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.170 s -- in id.ac.ukwms.GradeServiceTest
